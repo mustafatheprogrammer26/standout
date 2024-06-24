@@ -1,0 +1,352 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(img/pattern.jpg);
+}
+header{
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
+nav{
+    background: #000;
+}
+.navbar{
+    margin-top: 40px;
+    font-size: 18px;
+}
+.im{
+   margin-right: 30px; 
+}
+.l{
+    margin-right: 20px;
+    color: rgb(19, 186, 19);
+    text-decoration: none;
+}
+.li{
+    margin-right: 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.li:hover{
+    color: rgb(19, 186, 19);
+}
+.icon{
+    margin-right: 40px;
+    padding: 10px;
+    color: #ffffff;
+    font-size: 18px;
+}
+.fa-facebook-f{
+    background: #000;
+    padding: 9px 12px;
+    border-radius:50px;
+}
+.fa-facebook-f:hover{
+    background-color: rgb(0, 174, 0);
+}
+.fa-twitter{
+    background: #000;
+    padding: 10px 10px;
+    border-radius:50px;
+}
+.fa-twitter:hover{
+    background-color: rgb(0, 174, 0);
+}
+.fa-instagram{
+    background: #000;
+    padding: 9px 10px;
+    border-radius:50px;
+}
+.fa-instagram:hover{
+    background-color: rgb(0, 174, 0);
+}
+.part1{
+    padding-top: 60px;
+    padding-bottom: 40px;
+    color: #ffffff;
+}
+.head{
+    padding-top: 80px;
+}
+.but{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:50px;
+    padding-right:50px ;
+    margin-top: 40px;
+    text-align: center;
+    cursor: pointer;
+    border:1px solid rgb(32, 165, 32);
+    background-color: rgb(32, 165, 32);
+}
+@media (max-width:768px) {
+    .pic{
+        display: none;
+    }
+}
+.part2{
+    padding-top:40px;
+    color: #ffffff;
+    background-color:rgb(73, 147, 73) ;
+}
+.tex{
+    padding-top: 40px;
+}
+.slide{
+    padding-top: 50px;
+}
+.ca{
+    padding-bottom: 20px;
+}
+.doo>i{
+    margin-left: 20px;
+    cursor: pointer;
+}
+.ee{
+    color: #c6c4c4;
+}
+.ee:hover{
+    color: #ffffff;
+}
+.pi{
+    padding-top: 40px;
+}
+.pi>img{
+    width: 100%;
+    align-items: center;
+    justify-content:center ;
+}
+.part3{
+    padding-top: 80px;
+    background-color:#ffffff ;
+}
+.car{
+    padding-top: 50px;
+}
+.cr{
+    padding-top: 50px;
+}
+.car>h1>span{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 3px;
+    padding-bottom:3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    color: #ffffff;
+    background-color:rgb(32, 165, 32);
+}
+.cr>h1>span{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-bottom:3px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 50px;
+    color: #ffffff;
+    background-color:rgb(32, 165, 32);
+}
+.part4{
+    padding-top: 80px;
+    padding-bottom: 100px;
+    font-family: "Playfair Display", serif;
+    background-color:#f7f7f7 ;
+}
+.wb{
+    font-size: 40px;
+    font-weight: bold;
+}
+.bw{
+    color: #a2a1a1;
+}
+.rf>hr{
+    color: rgb(71, 215, 34);
+}
+.point{
+    padding-top: 50px;
+}
+.po>h2>span>i{
+    margin-right: 20px;
+}
+.po>p{
+    padding-left: 50px;
+}
+.po{
+    padding-bottom: 20px;
+}
+.p1>p{
+    font-weight: bold;
+    color: rgb(71, 215, 34);
+}
+.p1>.par>.p11>img{
+    margin-right: 20px;
+    border-radius: 50px;
+}
+.p1>.par>.p12>a{
+    color: #c6c4c4;
+    margin-left: 50px;
+    text-decoration: none;
+}
+.p1>.par>.p12> a:hover{
+    color: #000;
+}
+.p1>.para{
+    padding-top: -30px;
+    padding-left: 80px;
+    color: #c6c4c4;
+}
+.do>i{
+    margin-left: 20px;
+    cursor: pointer;
+}
+.ef{
+    color: rgb(71, 215, 34);
+}
+.e{
+    color: #bdbdbd;
+}
+.e:hover{
+    color:rgb(71, 215, 34);
+}
+.part5{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: "Playfair Display", serif;
+    background-color:#ffffff ; 
+}
+.rd{
+    padding-right: 20px;
+    color: rgb(71, 215, 34);
+}
+.caard{
+    padding-top: 50px;
+}
+.cards{
+    padding-top: 50px ;
+    padding-bottom: 30px;
+}
+.cardss{
+    padding-top: 50px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    border-radius: 12px;
+    color: #ffffff;
+    background-color: rgb(19, 186, 19);
+}
+.row>.yuu{
+    padding-left: 60px;
+}
+.cardss>.tg{
+    color: #000000;
+    background-color:#ffffff ;
+}
+.cardss>.tg:hover{
+    background-color:rgb(20, 123, 20) ;
+}
+.wh>i{
+    color: #ffffff;
+}
+.butt{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:30px;
+    padding-right:30px ;
+    margin-top: 40px;
+    text-align: center;
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: bold;
+    border:1px solid rgb(32, 165, 32);
+    background-color: rgb(32, 165, 32);
+}
+.butt:hover{
+    background-color: rgb(19, 186, 19);
+}
+.part6{
+    padding-top: 80px;
+    font-family: "Playfair Display", serif;
+    color: #ffffff;
+    background-color: rgb(66, 184, 7);
+}
+.app{
+    padding-top: 80px;
+}
+@media (max-width:1164px) {
+    .m{
+        flex-direction:column-reverse;
+    }
+}
+.part7{
+    padding-top: -500px;
+    color: #ffffff;
+    background-color: #000000;
+}
+.foot1{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+.tf{
+    padding: 10px;
+    background-color: #bdbdbd;
+}
+.stand{
+    padding-bottom: 20px;
+}
+.inp{
+    padding-top: 50px;
+}
+.inp>input{
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    color: #ffffff;
+    border:1px solid #5f5d5d;
+    background-color: #5f5d5d;
+}
+.sign{
+    padding: 20px;
+    border: 1px solid rgb(71, 215, 34);
+    background-color: rgb(71, 215, 34);
+}
+.ques{
+    padding-top: 40px;
+}
+.color{
+    padding-top: 30px;
+}
+.ques>a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+.ques>a:hover{
+    color: rgb(71, 215, 34);
+}
+.gr:hover{
+    transition: 1s;
+    cursor: pointer;
+    color: rgb(71, 215, 34);
+}
+.w4>i{
+    position: absolute;
+    right: 20px;
+    bottom:20px ;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #000000;
+    font-size: 30px;
+}
+.w4>i:hover{
+    background-color: rgb(71, 215, 34);
+}
+*{
+    border: 1px solid red;
+}
